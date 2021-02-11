@@ -1,5 +1,4 @@
 # simongame
-Test-task from a company.
 
 ## Project setup
 ```
